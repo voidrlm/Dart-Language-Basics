@@ -3,190 +3,182 @@ Dart is a modern, object-oriented programming language created by Google. It's d
 
 ## Contents:
    
-+---1.Basics
+## 1.Basics
 
-|       1.hello world program.dart
+1.hello world program
 
-|       2.Addition of two numbers.dart
+2.Addition of two numbers
 
-|       3.variables.dart
+3.variables
 
-|       4.constants.dart
+4.constants
 
-|       5.Data types.dart
+5.Data types
 
-|       6.round off to two decimal point.dart
+6.round off to two decimal point
 
-|       7.Multiline string.dart
+7.Multiline string
 
-|       8.string to int and double.dart
+8.string to int and double
 
-|       9.lists.dart
+9.lists
 
-|       10.set.dart
+10.set
 
-|       11.maps.dart
+11.maps
 
-|       12.arithematic operator.dart
+12.arithematic operator
 
-|       13.increment and decrement operators.dart
+13.increment and decrement operators
 
-|       14.assignment operators.dart
+14.assignment operators
 
-|       15.relational operators.dart
+15.relational operators
 
-|       16.Logical operators.dart
+16.Logical operators
 
-|       17.User input.dart
+17.User input
 
-  
-+---2.Condtions
+## 2.Condtions
 
-|       1.Basics.dart
+1.Basics
 
-|       2.Switch.dart
+2.Switch
 
-|       
 
-+---3.Loops
+## 3.Loops
 
-|       1.Types.dart
+1.Types
 
-|       
 
-+---4.Functions
+## 4.Functions
 
-|       1.Function declaration.dart
+1.Function declaration
 
-|       
 
-+---5.Lists
+## 5.Lists
 
-|       1.create list.dart
+1.create list
 
-|       2.Access lists.dart
+2.Access lists
 
-|       3.check if list empty.dart
+3.check if list empty
 
-|       4.add to list.dart
+4.add to list
 
-|       4.reverse list.dart
+4.reverse list
 
-|       5.insert item to list.dart
+5.insert item to list
 
-|       6.remove from list.dart
+6.remove from list
 
-|       7.loop in list.dart
+7.loop in list
 
-|       8.concat list.dart
+8.concat list
 
-|       9.conditions in list.dart
+9.conditions in list
 
-|       10.filter list.dart
+10.filter list
 
-+---6.Set
+## 6.Set
 
-|       1.create set.dart
+1.create set
 
-|       2.Access set values.dart
+2.Access set values
 
-|       3.Check if value is present in set.dart
+3.Check if value is present in set
 
-|       4.add or remove item from set.dart
+4.add or remove item from set
 
-|       5.loop in set.dart
+5.loop in set
 
-|       
+## 7.Helpful Set Methods
 
-+---7.Helpful Set Methods
+1.clear set
 
-|       1.clear set.dart
+2.difference in set
 
-|       2.difference in set.dart
+3.intersection in set
 
-|       3.intersection in set.dart
+4.element at
 
-|       4.element at.dart
 
-|       
+## 8.Map
 
-+---8.Map
+1.basics of map
 
-|       1.basics of map.dart
+2.Map methods
 
-|       2.Map methods.dart
+3.Convert Maps Keys & Values To List
 
-|       3.Convert Maps Keys & Values To List.dart
+4.check if map contains a key or value
 
-|       4.check if map contains a key or value.dart
+5.loop in map
 
-|       5.loop in map.dart
+6.where filter in map
 
-|       6.where filter in map.dart
 
-|       
+## 9.OOPS in Dart
 
-+---9.OOPS in Dart
+1.class
 
-|       1.class.dart
+2.objects
 
-|       2.objects.dart
+3.constructor
 
-|       3.constructor.dart
+4.encapsulation_getter
 
-|       4.encapsulation_getter.dart
+5.encapsulation_setter
 
-|       5.encapsulation_setter.dart
+6.inheritance
 
-|       6.inheritance.dart
+7.inheritance of constructor
 
-|       7.inheritance of constructor.dart
+8.super
 
-|       8.super.dart
+9.polymorphism
 
-|       9.polymorphism.dart
+10.static variable
 
-|       10.static variable.dart
+11.static method
 
-|       11.static method.dart
+12.enum
 
-|       12.enum.dart
+13.abstract class
 
-|       13.abstract class.dart
+14.interface
 
-|       14.interface.dart
+15.mixin
 
-|       15.mixin.dart
 
+## 10.File Handling
 
-+---10.File Handling
+1.read file
 
-|       1.read file.dart
+2.read csv
 
-|       2.read csv.dart
+3.write file
 
-|       3.write file.dart
+4.write csv file
 
-|       4.write csv file.dart
-
-|       5.delete file
+5.delete file
 
 | 
 
 +---11.Asynchronous programming
 
-|       1.Synchronous.dart
+1.Synchronous
 
-|       2.Asynchronous.dart
+2.Asynchronous
 
-|       3.Future.dart
+3.Future
 
-|       4.Async Await.dart
+4.Async Await
 
-|       5.Streams basics.dart
+5.Streams basics
 
-|       6.Create stream.dart
+6.Create stream
 
-|       5.Use Stream.dart
+5.Use Stream
 
 
